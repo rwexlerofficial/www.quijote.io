@@ -1,0 +1,115 @@
+.colWidth12-12{
+    width:100%;
+}
+.colWidth11-12{
+    width:91.67%;
+}
+.colWidth10-12{
+    width:83.33%;
+}
+.colWidth9-12{
+    width:75%;
+}
+.colWidth8-12{
+    width:66.6%;
+}
+.colWidth7-12{
+    width:58.33%;
+}
+.colWidth6-12{
+    width:50%;
+}
+.colWidth5-12{
+    width:41.67%;
+}
+.colWidth4-12{
+    width:33.3%;
+}
+.colWidth3-12{
+    width:25%;
+}
+.colWidth2-12{
+    width:16.6%;
+}
+.colWidth1-12{
+    width:8.3%;
+}
+.hi50{
+    height:50px;
+}
+.hi100{
+    height: 100px;
+}
+.hi200{
+    height: 200px;
+}
+.hi300{
+    height:300px;
+}
+.hi500{
+    height:500px;
+}
+#navbar {
+     background-color:rgb(230, 15, 48);
+}
+#navbar a  {
+   color:white;
+    text-decoration:none;
+    font-size: 18px;
+    font-family:'Baloo Da 2',cursive;
+    
+}
+.flexCentered {
+    display: flex ;
+    flex-direction: row ;
+    flex-wrap: wrap ;
+    justify-content: space-around ;
+    align-items: center ;
+    align-content: center ;
+}
+.leftCol{
+    float:left;
+}
+.rightCol{
+    float:right;
+}
+img{
+    width:200px;
+    height: 200px;
+}
+p {
+    font-family:'Baloo Da 2', cursive;
+    margin-left:500px;
+    margin-right:500px;
+    font-size:24px;
+}
+.hi50 a {
+    text-decoration: none;
+    color:white;
+}
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+.bigImage{
+    width: 400px;
+    height: 400px;
+}
+.tinyImage{
+    width: 50px;
+    height: 50px;
+}
+.photo-character {
+    width:50%;
+    height:50%;
+}
+h1 {
+  text-align:center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
